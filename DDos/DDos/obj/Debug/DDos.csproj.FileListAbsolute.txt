@@ -7,3 +7,12 @@ D:\Small code\palindrome\DDos\DDos\DDos\bin\Debug\DDos.exe
 D:\Small code\palindrome\DDos\DDos\DDos\bin\Debug\DDos.pdb
 D:\Small code\palindrome\DDos\DDos\DDos\obj\Debug\DDos.exe
 D:\Small code\palindrome\DDos\DDos\DDos\obj\Debug\DDos.pdb
+D:\Small code\DDos\DDos\DDos\bin\Debug\DDos.exe.config
+D:\Small code\DDos\DDos\DDos\obj\Debug\DDos.exe
+D:\Small code\DDos\DDos\DDos\obj\Debug\DDos.pdb
+D:\Small code\DDos\DDos\DDos\bin\Debug\DDos.exe
+D:\Small code\DDos\DDos\DDos\bin\Debug\DDos.pdb
+D:\Small code\DDos\DDos\DDos\obj\Debug\DDos.csprojResolveAssemblyReference.cache
+D:\Small code\DDos\DDos\DDos\obj\Debug\DDos.Form1.resources
+D:\Small code\DDos\DDos\DDos\obj\Debug\DDos.Properties.Resources.resources
+D:\Small code\DDos\DDos\DDos\obj\Debug\DDos.csproj.GenerateResource.Cache

@@ -52,5 +52,15 @@ namespace DDos
                 
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Stop();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+        }
     }
 }
